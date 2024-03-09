@@ -25,7 +25,7 @@
                     {{ session('status') }}
                   </h1>
                   @endif
-                    <p class="mb-0 py-2 font-semibold text-center text-lg text-white shadow-mdo">Input Email dan Password untuk Login</p>
+                    <p class="mb-0 py-2 font-semibold text-center text-lg text-white shadow-mdo">Input Email dan Password untuk Masuk</p>
                   </div>
                   <div class="flex-auto p-6">
                     <form role="form" action="/login" method="POST">
